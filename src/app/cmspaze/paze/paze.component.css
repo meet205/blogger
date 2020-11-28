@@ -1,0 +1,19 @@
+h1 {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+img {
+    width: 690px;
+    height: 300px;
+    margin-top: -322px;
+    margin-right: 90px;
+    opacity: 0.38;
+}
+
+p {
+    color: black;
+    font-size: 25px;
+    margin-left: 15px;
+}
